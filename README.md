@@ -4,14 +4,17 @@
   -General Kenobi!!</h2>
 <p align="left">I'm a <strong>game developer</strong>
 </p>
-<p align="left">I 💜 Unity.  </p>
+<p align="center">I 💜 Unity.  </p>
 
-<img align="right" src="https://media2.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=790b7611dc75f70e82c9a408f3caff484261bd02e80c2ed5&rid=giphy.gif&ct=g" />
-<br>
-<br>
-<br>
-<h2>A Few Quick Facts</h2>
-<br>
+<p align= "center" >
+<img src="https://media2.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=790b7611dc75f70e82c9a408f3caff484261bd02e80c2ed5&rid=giphy.gif&ct=g" widht= "700" />
+  
+  </p>
+  <table>
+
+  <tr> 
+<td>
+
 <li>I’m currently working on game design </li>
 <br>
 <li>Learning about <strong>game loop and game design</strong>.</li>
@@ -19,14 +22,16 @@
 <li>Sometimes I write articles on <a href="">my blog</a>.</li>
 <br>
 <li>Ping me about <strong>unity, game desing and mobile app.</li>
-<br>
+<td><img src="https://github-readme-stats.vercel.app/api?username=AhmetBahr&show_icons=true&theme=synthwave"></td>
+</td>  
+  </tr>
+ </table>
 
-
-  
 <br>
 <h2>Tech Stack</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="python" width="50" height="50" />     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutterio" width="50" height="50" /> <img img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dartlang" width="50" height="50" /> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="50" height="50" />  
+<img src="https://user-images.githubusercontent.com/95883970/200135687-1ab66905-b7e4-4802-b0fa-52bcf05b992a.png" alt="vscode" width="50" height="50" />  
 <br>
 
   
