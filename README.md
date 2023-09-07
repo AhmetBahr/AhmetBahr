@@ -19,7 +19,7 @@
 <br>
 <li>Learning about <strong>game loop and game design</strong>.</li>
 <br>
-<li>Sometimes I write articles on <a href="[https://medium.com/@ahmetbhr29](https://medium.com/@bahrr)">my blog</a>.</li>
+<li>Sometimes I write articles on <a href="https://medium.com/@bahrr">my blog</a>.</li>
 <br>
 <li>Ping me about <strong>unity, game desing and mobile app.</li>
 <td><img src="https://github-readme-stats.vercel.app/api?username=AhmetBahr&show_icons=true&theme=synthwave"></td>
