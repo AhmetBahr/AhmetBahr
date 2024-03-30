@@ -1,11 +1,9 @@
 <h1 align="center"> Hello there!, I'm Ahmet Bahar</h1>
 <h3 align="center">I'm solo a game developer</h3>
 
-</p>
-
-<img src="https://media2.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=790b7611dc75f70e82c9a408f3caff484261bd02e80c2ed5&rid=giphy.gif&ct=g" widht= "700" />
-  
-  </p>
+<div class="container">
+  <img src="https://media2.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=790b7611dc75f70e82c9a408f3caff484261bd02e80c2ed5&rid=giphy.gif&ct=g" />
+</div>
 
 - 🔭 I’m currently working on [Survivor-Like Game](https://github.com/AhmetBahr/Survivor_Like)
 
