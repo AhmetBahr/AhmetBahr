@@ -1,9 +1,7 @@
 <h1 align="center"> Hello there!, I'm Ahmet Bahar</h1>
 <h3 align="center">I'm solo a game developer</h3>
 
-<p align= "center" >
-<img src="[https://media2.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=790b7611dc75f70e82c9a408f3caff484261bd02e80c2ed5&rid=giphy.gif&ct=g](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGljdzMweGJnY3IxY2ZrZzJvbHcwc252MmR3Y3J6ajJ4aXVzb2hseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Q2hJ4FLN1UvS/giphy.gif)"/>
-  </p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/jAe22Ec5iICCk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-tired-jAe22Ec5iICCk">via GIPHY</a></p>
   
 - 🔭 I’m currently working on [Survivor-Like Game](https://github.com/AhmetBahr/Survivor_Like)
 
