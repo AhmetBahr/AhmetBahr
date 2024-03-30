@@ -1,47 +1,25 @@
+<h1 align="center">Hi 👋, I'm Ahmet Bahar</h1>
+<h3 align="center">I'm solo a game developer</h3>
 
+- 🔭 I’m currently working on [Survivor-Like Game](https://github.com/AhmetBahr/Survivor_Like)
 
-<h2>-Hello there!   
-  -General Kenobi!!</h2>
-<p align="left">I'm a <strong>game developer</strong>
-</p>
-<p align="center">I 💜 Unity.  </p>
+- 🌱 I’m currently learning **C++ And UnrealEngin 5**
 
-<p align= "center" >
-<img src="https://media2.giphy.com/media/jAe22Ec5iICCk/giphy.gif?cid=790b7611dc75f70e82c9a408f3caff484261bd02e80c2ed5&rid=giphy.gif&ct=g" widht= "700" />
-  
-  </p>
-  <table>
+- 📝 I sometimes write articles on [https://bahrr.medium.com](https://bahrr.medium.com)
 
-  <tr> 
-<td>
+- 📫 How to reach me **ahmetbhr29@gmail.com**
 
-<li>I’m currently working on game design </li>
-<br>
-<li>Learning about <strong>game loop and game design</strong>.</li>
-<br>
-<li>Sometimes I write articles on <a href="https://medium.com/@bahrr">my blog</a>.</li>
-<br>
-<li>Ping me about <strong>unity, game desing and mobile app.</li>
-<td><img src="https://github-readme-stats.vercel.app/api?username=AhmetBahr&show_icons=true&theme=synthwave"></td>
-</td>  
-  </tr>
- </table>
-
-<br>
-<h2>Tech Stack</h2>
-<p align="center">
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="python" width="50" height="50" />     <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutterio" width="50" height="50" /> <img img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50" /> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dartlang" width="50" height="50" /> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50" />     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="50" height="50" />  
-<img src="https://user-images.githubusercontent.com/95883970/200135687-1ab66905-b7e4-4802-b0fa-52bcf05b992a.png" alt="vscode" width="50" height="50" />  
-<br>
-
-  
-  
-<h2>Connect with Me</h2>
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ahmetbahar/"><img src="https://img.shields.io/badge/-Ahmet%20Bahar-0077B5?style=flat&logo=Linkedin&logoColor=orange"/></a>
-<a href="mailto:ahmetbhr29@gmail.com"><img src="https://img.shields.io/badge/-ahmetbhr29@gmail.com-D14836?style=flat&logo=Gmail&logoColor=orange"/></a>
-<a href="https://twitter.com/Ahmetbharr"><img src="https://img.shields.io/badge/-@Ahmetbharr-1769FF?style=flat&logo=Twitter&logoColor=orange"/></a>
-<a href="https://www.instagram.com/ahmetbharr/"><img src="https://img.shields.io/badge/-@ahmetbharr-E4405F?style=flat&logo=Instagram&logoColor=orange"/></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ahmetbharr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmetbharr" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmetbharr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetbharr" height="30" width="40" /></a>
+<a href="https://www.behance.net/avsahana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="avsahana" height="30" width="40" /></a>
+<a href="https://medium.com/@bahrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bahrr" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetbahr&show_icons=true&locale=en&layout=compact" alt="ahmetbahr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetbahr&show_icons=true&locale=en" alt="ahmetbahr" /></p>
