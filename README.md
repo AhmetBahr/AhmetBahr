@@ -7,7 +7,7 @@
   
   </p>
   
-- 🔭 I’m currently working on [Sliding Knight Game]([https://github.com/AhmetBahr/MercenaryForMerchant](https://github.com/AhmetBahr/SlidingKnight))
+- 🔭 I’m currently working on [Sliding Knight Game](https://github.com/AhmetBahr/MercenaryForMerchant](https://github.com/AhmetBahr/SlidingKnight))
 
 - 🌱 I’m currently learning **C++ And UnrealEngin 5**
 
